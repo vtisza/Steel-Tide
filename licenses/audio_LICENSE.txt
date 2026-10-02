@@ -1,0 +1,15 @@
+Sound effects in this folder
+
+  toggle.ogg, placement-a.ogg, placement-b.ogg, placement-c.ogg, removal-a.ogg
+      Kenney "Starter Kit City Builder"   https://github.com/KenneyNL/Starter-Kit-City-Builder (sounds/)
+  blaster.ogg, enemy_destroy.ogg
+      Kenney "Starter Kit FPS"            https://github.com/KenneyNL/Starter-Kit-FPS (sounds/)
+      Created by Kenney (www.kenney.nl). License: CC0 1.0 Universal
+      https://creativecommons.org/publicdomain/zero/1.0/
+
+  impact_big.wav
+      FFeller, https://freesound.org/people/FFeller/sounds/532873/
+      License: CC0 1.0 Universal (see impact_big.LICENSE.md). Copy distributed with
+      godotengine/godot-demo-projects (3d/ragdoll_physics/sounds/), silence at the start trimmed there.
+
+Files are unmodified.

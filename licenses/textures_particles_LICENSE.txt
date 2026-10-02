@@ -1,0 +1,11 @@
+Particle sprites in this folder
+
+  puff.png         Kenney "Starter Kit Racing"       https://github.com/KenneyNL/Starter-Kit-Racing  (sprites/smoke.png)
+  spark.png        Kenney "Starter Kit 3D Platformer" https://github.com/KenneyNL/Starter-Kit-3D-Platformer (sprites/particle.png)
+  blob_shadow.png  Kenney "Starter Kit FPS"          https://github.com/KenneyNL/Starter-Kit-FPS (sprites/blob_shadow.png)
+
+Created by Kenney (www.kenney.nl).
+License: Creative Commons Zero, CC0 1.0 Universal
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Files are unmodified except for renaming.
